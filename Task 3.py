@@ -15,3 +15,4 @@ else:
     sezonnumber = 4
 
 print(sezon.get(sezonnumber))
+
