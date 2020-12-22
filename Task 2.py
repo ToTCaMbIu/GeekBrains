@@ -22,3 +22,5 @@ if len(n) % 2 == 0:
     print(otvet)
 else:
     print(otvet)
+
+    
